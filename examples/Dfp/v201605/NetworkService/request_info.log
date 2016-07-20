@@ -1,0 +1,4 @@
+[Jul 20 2016 20:02:00.000000 - INFO] service=NetworkService method=makeTestNetwork responseTime=482 requestId=8d9df72fe9837bc3fdbfd6c27e62cb1d server=ads.google.com isFault=0 faultMessage=null
+[Jul 20 2016 20:05:09.000000 - ERROR] service=NetworkService method=getCurrentNetwork responseTime=42 requestId=28fd072472ba691126ec18ca15d007ed server=ads.google.com isFault=1 faultMessage=[AuthenticationError.NETWORK_NOT_FOUND @ ; trigger:'INSERT_NETWORK_CODE_HERE']
+[Jul 20 2016 20:05:29.000000 - INFO] service=NetworkService method=getCurrentNetwork responseTime=357 requestId=215a7b069af94aa91e72e9046d87ee5d server=ads.google.com isFault=0 faultMessage=null
+[Jul 20 2016 20:05:45.000000 - INFO] service=NetworkService method=getAllNetworks responseTime=49 requestId=43b6e1a8119e3516f60cdc577a2bdece server=ads.google.com isFault=0 faultMessage=null
